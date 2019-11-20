@@ -1,0 +1,23 @@
+.App {
+  background: #eeeeee;
+  border-radius: 6px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.App .buttons {
+  text-align: right;
+}
+
+.App .buttons>button {
+  margin-right: 15px;
+}
+
+.App .buttons>button:last-of-type {
+  margin-right: 0;
+}
+
+.App .input-length {
+  display: inline-block;
+  width: 200px;
+}
