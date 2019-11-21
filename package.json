@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/node": "^12.12.11",
     "antd": "^3.25.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -12,9 +13,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "publish": "npm run build && node ./publish-gh-pages",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://akatquas.github.io/demo-key-value-editor",
   "eslintConfig": {
     "extends": "react-app"
   },

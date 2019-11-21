@@ -65,9 +65,9 @@ function App() {
       </div>
       <Divider />
       <Typography.Title level={4}>Feel Free to play like the following pictures shows.</Typography.Title>
-      <img src="/layout.png" alt="" />
-      <img src="/add_delete.gif" alt="" />
-      <img src="/edit.gif" alt="" />
+      <img src={process.env.PUBLIC_URL + '/layout.png'} alt="" />
+      <img src={process.env.PUBLIC_URL + '/add_delet.gif'} alt="" />
+      <img src={process.env.PUBLIC_URL + '/edit.gif'} alt="" />
     </div>
   );
 }
