@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/demo-key-value-editor/static/css/main.cc73e8fb.chunk.css",
-    "main.js": "/demo-key-value-editor/static/js/main.68ddc71e.chunk.js",
-    "main.js.map": "/demo-key-value-editor/static/js/main.68ddc71e.chunk.js.map",
+    "main.js": "/demo-key-value-editor/static/js/main.8a0625d6.chunk.js",
+    "main.js.map": "/demo-key-value-editor/static/js/main.8a0625d6.chunk.js.map",
     "runtime-main.js": "/demo-key-value-editor/static/js/runtime-main.c771f6e3.js",
     "runtime-main.js.map": "/demo-key-value-editor/static/js/runtime-main.c771f6e3.js.map",
     "static/css/2.fb9ed26a.chunk.css": "/demo-key-value-editor/static/css/2.fb9ed26a.chunk.css",
     "static/js/2.8f4ea93a.chunk.js": "/demo-key-value-editor/static/js/2.8f4ea93a.chunk.js",
     "static/js/2.8f4ea93a.chunk.js.map": "/demo-key-value-editor/static/js/2.8f4ea93a.chunk.js.map",
     "index.html": "/demo-key-value-editor/index.html",
-    "precache-manifest.d25e0324e9a9c4f90b85caf7906b9e5b.js": "/demo-key-value-editor/precache-manifest.d25e0324e9a9c4f90b85caf7906b9e5b.js",
+    "precache-manifest.330ee3d8898df4b1b38023ccd622be84.js": "/demo-key-value-editor/precache-manifest.330ee3d8898df4b1b38023ccd622be84.js",
     "service-worker.js": "/demo-key-value-editor/service-worker.js",
     "static/css/2.fb9ed26a.chunk.css.map": "/demo-key-value-editor/static/css/2.fb9ed26a.chunk.css.map",
     "static/css/main.cc73e8fb.chunk.css.map": "/demo-key-value-editor/static/css/main.cc73e8fb.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.fb9ed26a.chunk.css",
     "static/js/2.8f4ea93a.chunk.js",
     "static/css/main.cc73e8fb.chunk.css",
-    "static/js/main.68ddc71e.chunk.js"
+    "static/js/main.8a0625d6.chunk.js"
   ]
 }
